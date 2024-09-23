@@ -5,3 +5,4 @@ Tecnicatura 2024
 - 
 - pepito cargo los archivos
 - Agrego un nuevo trabajo v3
+- agregan nuevos trabajos de sole
